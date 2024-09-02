@@ -1,0 +1,26 @@
+.bg-container{
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    color: black;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para{
+    font-size: 100px;
+    font-weight: 700;
+}
+.but{
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: black;
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+    margin: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
